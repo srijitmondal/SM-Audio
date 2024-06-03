@@ -1,5 +1,5 @@
 
-<h1 align="center">SM <img src="https://pixabay.com/gifs/record-retro-vinyl-music-8329/" width=40 /> Audio</h1>
+<h1 align="center">SM <img src="https://i.postimg.cc/vZGTFVyq/record-8329-512.gif" width=40 /> Audio</h1>
 <h3 align="center">A passionate Android & Web developer from India</h3>
 A web application based Music Streaming Platform.
 
