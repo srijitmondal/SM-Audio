@@ -21,10 +21,6 @@ A web application based Music Streaming Platform.
 - Choose and click on the play button beside the desired track.
 - Seek the track at any time using the peel on the seekbar.
 
-## Gallery 
-
-![githu]()
-![githu]()
 
 
 ## Contributing
