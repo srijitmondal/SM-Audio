@@ -22,7 +22,7 @@ A web application based Music Streaming Platform.
 
 ## Usage
 
-- Open The Website.
+- Open The <a href="https://smaudio.netlify.app/" target="_blank">SM Audio Website</a> .
 - Choose and click on the play button beside the desired track.
 - Seek the track at any time using the peel on the seekbar.
 
