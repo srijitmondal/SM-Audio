@@ -1,7 +1,6 @@
 
 <h1 align="center">SM <img src="https://i.postimg.cc/vZGTFVyq/record-8329-512.gif" width=100 /> Audio</h1>
-<h3 align="center">A passionate Android & Web developer from India</h3>
-A web application based Music Streaming Platform.
+<h3 align="center">A web application based Music Streaming Platform</h3>
 
 ## Features
 - User-friendly funky looking interface for entertainment
