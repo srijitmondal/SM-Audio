@@ -28,6 +28,12 @@
 3. Click on the play button beside the track.
 4. Use the seek-bar to move to any part of the track.
 
+## Gallery 
+
+![githu](https://i.postimg.cc/y8bvTxz1/IMG-20240605-113639-405.jpg)
+![githu](https://i.postimg.cc/qqLHgdHx/Screenshot-20240603-100608.png)
+![githu](https://i.postimg.cc/zXpdVptR/IMG-20240605-113633-880.jpg)
+
 
 ## Contributing
 - Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
