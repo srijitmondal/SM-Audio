@@ -31,7 +31,6 @@
 ## Gallery 
 
 ![githu](https://i.postimg.cc/y8bvTxz1/IMG-20240605-113639-405.jpg)
-![githu](https://i.postimg.cc/qqLHgdHx/Screenshot-20240603-100608.png)
 ![githu](https://i.postimg.cc/zXpdVptR/IMG-20240605-113633-880.jpg)
 
 
