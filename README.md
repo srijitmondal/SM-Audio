@@ -3,7 +3,7 @@
 <h3 align="center">A Web Application based Music Streaming Platform</h3>
 
 ## Features
-- User-friendly funky looking interface for entertainment
+- User-friendly funky looking interface for entertainment.
 - Real-time track Seeking using seek-bar.
 - Consists Next, Previous, Pause, Play, auto next Features.
 
