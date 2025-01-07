@@ -1,4 +1,3 @@
-
 <h1 align="center">SM <img src="https://i.postimg.cc/vZGTFVyq/record-8329-512.gif" width=100 /> Audio</h1>
 <h3 align="center">A Web Application based Music Streaming Platform</h3>
 
